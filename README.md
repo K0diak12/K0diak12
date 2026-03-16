@@ -1,5 +1,5 @@
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0diak12&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K0diak12&layout=compact)
+
 # 👋 Hi, I'm Juan,
 
 💻 Computer Science student passionate about **systems programming, Android development, and GPU technology**
@@ -43,6 +43,7 @@ Currently exploring:
 * GPU shader pipelines
 * C / C++ systems programming
 * Linux development environments
+* ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K0diak12&layout=compact)
 
 ---
 
