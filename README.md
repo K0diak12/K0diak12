@@ -4,7 +4,7 @@
 
 💻 Computer Science student passionate about **systems programming, Android development, and GPU technology**
 
-I love learning how software interacts with hardware — from **mobile apps** to **graphics drivers**.
+I love learning how software interacts with hardware  from **mobile apps** to **graphics drivers**.
 
 Currently exploring:
 
