@@ -80,7 +80,6 @@ I’m especially interested in the future of **mobile computing and open graphic
 * Creating useful and open source apps that can help college students.
   
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0diak12&show_icons=true)
----
 
 # 🎮 Hobbies & Interests
 
