@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K0diak12
 - 👀 I’m interested in learning how to code and how mobile Graphics pipelines work and interact.
-- 🌱 I’m currently learning Graphic Systems Engioneering and Android App Development. 
+- 🌱 I’m currently learning Graphic Systems Engineering and Android App Development. 
 - 💞️ I’m looking to collaborate on Drivers, tools  and applications
 - - 📫 How to reach me; Reach me by visitoing my Linkedin page @
 
