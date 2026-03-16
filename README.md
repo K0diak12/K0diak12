@@ -43,7 +43,6 @@ Currently exploring:
 * GPU shader pipelines
 * C / C++ systems programming
 * Linux development environments
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K0diak12&layout=compact)
 
 ---
 
@@ -105,3 +104,4 @@ If you're working on interesting projects in:
 * open source
 
 feel free to reach out!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K0diak12&layout=compact)
